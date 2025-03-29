@@ -82,4 +82,32 @@ Created by **Pawan Kumar**
 
 ---
 
+
+## 🙏 Acknowledgements
+
+- [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api) for making transcript extraction possible
+- [Streamlit](https://streamlit.io/) for the web interface framework
+- [Ollama](https://ollama.com/) for hosting the LLM service
+
+## ⭐ Support
+
+If you find this tool useful, please consider:
+- 🌟 Giving it a star on GitHub
+- 📺 [Subscribing to my YouTube channel](https://www.youtube.com/@Pawankumar-py4tk?sub_confirmation=1) for more Python tutorials
+- 🔀 Contributing to the project with improvements and bug fixes
+
+---
+
+<div align="center">
+  <a href="https://www.youtube.com/@Pawankumar-py4tk?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/Subscribe%20to%20@Pawankumar--py4tk-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe">
+  </a>
+</div>
+
+<p align="center">
+  <i>This tool uses the YouTube Transcript API and is not affiliated with YouTube or Google.<br>
+  Use responsibly and in accordance with YouTube's terms of service.</i>
+</p>
+
+
 Have fun creating with AI! 🚀
