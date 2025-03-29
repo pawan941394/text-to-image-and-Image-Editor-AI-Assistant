@@ -83,11 +83,41 @@ Created by **Pawan Kumar**
 ---
 
 
-## 🙏 Acknowledgements
+## 📝 License
 
-- [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api) for making transcript extraction possible
-- [Streamlit](https://streamlit.io/) for the web interface framework
-- [Ollama](https://ollama.com/) for hosting the LLM service
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Author
+
+<div align="center">
+  <a href="https://www.youtube.com/@Pawankumar-py4tk">
+    <img src="https://img.shields.io/badge/YouTube-Pawan_Kumar-red?style=for-the-badge&logo=youtube" alt="YouTube Channel">
+  </a>
+  <br>
+  <a href="https://www.youtube.com/@Pawankumar-py4tk">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC_k33KzNxQ3z3bGLZJBGUaA?style=social" alt="YouTube Subscribers">
+  </a>
+</div>
+
+<table>
+  <tr>
+    <td width="150" align="center">
+      <a href="https://www.youtube.com/@Pawankumar-py4tk">
+        <img src="screenshots/youtubelogo.jpg" width="100" style="border-radius:50%">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://www.youtube.com/@Pawankumar-py4tk">Pawan Kumar</a></h3>
+      <p>I create Python tutorials and tools to help make programming and AI more accessible. Follow me for more useful content!</p>
+      <p>
+        <a href="https://www.youtube.com/@Pawankumar-py4tk?sub_confirmation=1">
+          <img src="https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ## ⭐ Support
 
