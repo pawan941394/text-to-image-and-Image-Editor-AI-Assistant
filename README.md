@@ -1,6 +1,7 @@
 # 🎨 AI Image Generator & Assistant
 
-![Animated Banner](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+![image](https://github.com/user-attachments/assets/f8266248-87dc-4ef1-8385-cc57bf360910)
+
 
 ## Table of Contents
 - [Overview](#overview)
