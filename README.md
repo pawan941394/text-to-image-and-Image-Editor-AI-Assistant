@@ -1,6 +1,6 @@
 # 🎨 AI Image Generator & Assistant
 
-![Animated Banner](https://media.giphy.com/media/3o85xIO33l7RlmLR4I/giphy.gif)
+![Banner](https://via.placeholder.com/1200x300?text=AI+Image+Generator+%26+Assistant)
 
 ## Overview
 
@@ -50,11 +50,6 @@ pip install streamlit Pillow google-genai
 - **Chat**: Ask questions or get creative advice from the AI.
 - **Generate Images**: Provide a text prompt to create new images.
 - **Edit Images**: Upload and modify images based on your edit instructions.
-
-## Animations
-
-Experience dynamic visual feedback with our animated demos:
-![Animation Demo](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 
 ## Contributing
 
