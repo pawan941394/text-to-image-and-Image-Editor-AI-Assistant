@@ -1,7 +1,5 @@
 streamlit
 google-generativeai
-requests
-google-generativeai
 pillow
 python-dotenv
-google-generativeai
+requests
