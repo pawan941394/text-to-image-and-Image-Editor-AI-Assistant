@@ -3,4 +3,4 @@ requests
 google-generativeai
 pillow
 python-dotenv
-google
+google-generativeai
