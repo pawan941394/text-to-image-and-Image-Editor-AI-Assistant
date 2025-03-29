@@ -21,11 +21,15 @@ Welcome to the **AI Image Generator & Assistant**! Leverage the power of **Strea
 ## Features
 
 - 💬 **Chat with AI**: Engage in conversation for creative ideas.  
-  ![Chat Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![image](https://github.com/user-attachments/assets/8cfe45eb-c800-4164-94dc-a5770f2708eb)
+
 - 🖼️ **Generate Images**: Turn descriptive prompts into vivid images.  
-  ![Generate Animation](https://media.giphy.com/media/l0HlQ7LRalGO7KzYg/giphy.gif)
+![image](https://github.com/user-attachments/assets/5a107059-3731-4626-9084-0960dabc7265)
+
+  
 - ✏️ **Edit Images**: Upload and enhance images using simple instructions.  
-  ![Edit Animation](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+![image](https://github.com/user-attachments/assets/5c8d94e3-dd98-4588-875e-d9a9ce56eb6e)
+
 - 🚀 **User-Friendly**: Enjoy a clean and intuitive interface with stunning visuals.
 
 ## Getting Started
@@ -50,11 +54,8 @@ pip install streamlit Pillow google-genai
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd "d:\Master's in Data Science and AI\Projects\GEN AI\texttoimage"
-   ```
-3. Launch the app:
+
+2. Launch the app:
    ```bash
    streamlit run app.py
    ```
