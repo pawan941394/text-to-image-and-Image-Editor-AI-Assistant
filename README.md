@@ -103,7 +103,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <tr>
     <td width="150" align="center">
       <a href="https://www.youtube.com/@Pawankumar-py4tk">
-        <img src="screenshots/youtubelogo.jpg" width="100" style="border-radius:50%">
+        <img src="https://github.com/pawan941394/YouTube-Transcript-AI-Assistant/blob/main/screenshots/youtubelogo.jpg" width="100" style="border-radius:50%">
       </a>
     </td>
     <td>
