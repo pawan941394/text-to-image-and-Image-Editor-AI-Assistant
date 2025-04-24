@@ -132,10 +132,6 @@ If you find this tool useful, please consider:
   </a>
 </div>
 
-<p align="center">
-  <i>This tool uses the YouTube Transcript API and is not affiliated with YouTube or Google.<br>
-  Use responsibly and in accordance with YouTube's terms of service.</i>
-</p>
 
 
 Have fun creating with AI! 🚀
